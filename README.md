@@ -20,9 +20,13 @@ This project focuses on analyzing sales data and building a one-page dashboard t
 
 ## Project insights 
 1. The dashboard provides a clear view of revenue, cost, and profit trends, helping identify seasonal fluctuations and sales growth opportunities.
+   
 2.Regional & Product Insights – By splitting Country and City data, the analysis enables better geographical sales tracking, along with performance breakdowns for top-selling and underperforming products.
+
 3.Data Quality & Transformation – Cleaning ID fields, ensuring proper date formats, and creating a GeoKey improve data accuracy and enhance model relationships for better decision-making.
+
 4.Sales Efficiency & Opportunity Management – The model helps assess cross-sell, renewals, and new sales while identifying opportunities to optimize sales strategies.
+
 5.Financial Performance Analysis – With MoM Growth %, QoQ Growth, and Avg. Sales per Day calculations, businesses can track profitability trends and make data-driven decisions.
 
 ## Project conclusion
