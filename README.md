@@ -19,7 +19,7 @@ This project focuses on analyzing sales data and building a one-page dashboard t
 - <a href ="https://github.com/arunsaimuddu/Sale-insights/blob/main/sales%20analytics%20report.pdf" >View report</a>
 
 ## Project insights 
-1. The dashboard provides a clear view of revenue, cost, and profit trends, helping identify seasonal fluctuations and sales growth opportunities.
+1.The dashboard provides a clear view of revenue, cost, and profit trends, helping identify seasonal fluctuations and sales growth opportunities.
    
 2.Regional & Product Insights – By splitting Country and City data, the analysis enables better geographical sales tracking, along with performance breakdowns for top-selling and underperforming products.
 
