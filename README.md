@@ -16,4 +16,5 @@ This project focuses on analyzing sales data and building a one-page dashboard t
 8. Calculate a Gross profit MoM growth Change% measure that could benefit us in decision making.
 9. Calculate a measure for AVG sales per day – this is the average sum of Total Revenue per day based on the Dates of actual Sales.
 
-## 
+## Dashboard 
+- <a href ="" >Data set</a>
